@@ -17,13 +17,6 @@
 <br /><br />
 </p>
 
-> [!NOTE]
-> Upsun is currently in [beta](https://upsun.com/register/), but will become more available in the coming year. 
->
-> You can find more information about Upsun, how it [relates to Platform.sh](https://upsun.com/blog/upsun-origin-story/), [notable features](https://upsun.com/features/), and [pricing](https://upsun.com/pricing/) on our website.
-> 
-> If you'd like to sign up for early access to Upsun, [register on our website](https://upsun.com/register/). 
-
 ## Meet Upsun: Powered by Platform.sh
 
 Upsun empowers development teams with the flexibility to build—and the firepower to run—diverse applications on a single, self-service PaaS. By fully managing a proven, reliable infrastructure and security, Upsun frees developers to solve even the most complex challenges by easily experimenting, quickly iterating, and confidently deploying applications at scale.
