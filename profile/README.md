@@ -19,7 +19,7 @@
 
 ## Meet Upsun
 
-**The software factory for AI-human workflows.** Upsun helps teams ship at the speed their agents work—with transparency, cost control, and people in the loop—then run it in production on the cloud and region they choose.
+**The software factory for human-AI workflows.** Upsun is one platform to create, review, deploy, and run software, with AI agents and your team working in sync. You keep people in the loop and a clear view of what every run costs, then take it to production on the cloud and region you choose.
 
 - **[Upsun Dispatch](https://upsun.com/dispatch/)**: run agent work as a defined workflow, with isolated steps, human approval where it counts, an [audit trail](https://upsun.com/dispatch/audit-trail/) of every run, and [real-time spend](https://upsun.com/dispatch/cost-transparency/) per run, workflow, and team.
 - **[Upsun Cloud](https://upsun.com/cloud/)**: run your whole stack. Declare runtimes, frameworks, and services once in YAML, test on preview environments with real data, scale without downtime, and deploy the same config to AWS, Azure, GCP, IBM Cloud, or OVHcloud across [14 regions](https://upsun.com/features/multi-cloud-and-edge/).
