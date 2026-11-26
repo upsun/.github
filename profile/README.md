@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<strong>Contribute, request a feature, or check out our resources</strong>
+<strong>Contribute, request a feature, or browse our resources</strong>
 <br />
 <br />
 <a href="https://upsun.com/"><strong>Website</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
